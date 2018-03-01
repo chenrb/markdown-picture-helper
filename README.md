@@ -1,9 +1,6 @@
 # Markdown-Picture助手  
 
-[TOC]
-
-
-这个脚本方便上传图片文件到七牛云/腾讯云，并得到可以在Markdown展示的图片链接。  
+这个脚本方便上传图片文件到七牛云/腾讯云，并得到可以在Markdown展示的图片链接(注意：图片名字不可为中文！)。  
 ### 七牛云Qiniucloud.py
 [七牛云的Python SDK](https://developer.qiniu.com/kodo/sdk/1242/python)
 ```
